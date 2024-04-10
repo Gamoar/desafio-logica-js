@@ -14,7 +14,7 @@ for(let i = 0; i<niveis.length;i++){
     }
 }
 // switch (true) {
-//     case xp === 900:
+//     case xp <= 1000:
 //         nivel = "Ferro";
 //         break;
 //     case xp <= 2000:
